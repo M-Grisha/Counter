@@ -1,8 +1,8 @@
 {
   "name": "counter",
+  "homepage": "https://M-Grisha.github.io/counter/",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://m-grisha.github.io/counter/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
